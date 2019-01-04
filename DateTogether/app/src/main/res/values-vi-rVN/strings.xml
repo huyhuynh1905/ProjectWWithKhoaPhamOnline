@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DateTogether</string>
+    <string name="menu_Setting">Cài đặt</string>
+    <string name="menu_Acount">Cá nhân</string>
+    <string name="menu_Exit">Thoát</string>
+</resources>

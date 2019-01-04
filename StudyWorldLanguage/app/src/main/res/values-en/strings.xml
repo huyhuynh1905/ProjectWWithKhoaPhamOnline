@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudyWorldLanguage</string>
+    <string name="edt_name">Name</string>
+    <string name="edt_phone">Phone</string>
+    <string name="btn_Nhap">Confirm</string>
+    <string name="txtName">Name</string>
+    <string name="txtPhone">Phone</string>
+    <string name="txt_tit">Infomation</string>
+</resources>

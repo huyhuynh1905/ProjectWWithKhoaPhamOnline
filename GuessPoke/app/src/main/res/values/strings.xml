@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GuessPoke</string>
+    <string-array name="list_img">
+        <item>poke1</item>
+        <item>poke2</item>
+        <item>poke3</item>
+        <item>poke4</item>
+        <item>poke5</item>
+        <item>poke6</item>
+        <item>poke7</item>
+        <item>poke8</item>
+        <item>poke9</item>
+        <item>poke10</item>
+        <item>poke11</item>
+        <item>poke12</item>
+        <item>poke13</item>
+        <item>poke14</item>
+        <item>poke15</item>
+    </string-array>
+</resources>

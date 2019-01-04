@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudyWorldLanguage</string>
+    <string name="edt_name">Tên</string>
+    <string name="txt_tit">Thông Tin</string>
+    <string name="edt_email" translatable="false">Email</string>
+    <string name="edt_phone">Số Điện Thoại</string>
+    <string name="btn_Nhap">Nhập</string>
+    <string name="txtName">Tên</string>
+    <string name="txtPhone">Số ĐT</string>
+    <string name="txtEmail" translatable="false">Email</string>
+</resources>

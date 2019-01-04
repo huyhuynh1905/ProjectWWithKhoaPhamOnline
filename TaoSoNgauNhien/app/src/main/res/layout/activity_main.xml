@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/txtNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="85dp"
+        android:text="0"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/btnRandom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="178dp"
+        android:text="Button Random"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btnRandom2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/btnRandom"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="110dp"
+        android:text="Random  Khoảng"
+        android:textAllCaps="false" />
+
+    <EditText
+        android:id="@+id/edtMin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/edtMax"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="249dp"
+        android:ems="10"
+        android:hint="Nhập Min"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/edtMax"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="180dp"
+        android:ems="10"
+        android:hint="Nhập Max"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/txtRandom2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="55dp"
+        android:text="0"
+        android:textSize="30sp" />
+</RelativeLayout>
